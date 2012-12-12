@@ -2,5 +2,5 @@ Sparkle-Hub
 ===========
 
 ```bash
-echo "...branch:playground:!!!:cool..."
+echo "...branch:playground..."
 ```
