@@ -2,5 +2,5 @@ Sparkle-Hub
 ===========
 
 ```bash
-echo "...playground..."
+echo "... :: playground :: ..."
 ```
